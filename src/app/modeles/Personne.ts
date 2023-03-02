@@ -11,15 +11,11 @@ export class Personne{
     return this._nom;
   }
 
-  set nom(value: string) {
-    this._nom = value;
-  }
+
 
   get prenom(): string {
     return this._prenom;
   }
 
-  set prenom(value: string) {
-    this._prenom = value;
-  }
+
 }
