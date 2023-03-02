@@ -1,0 +1,18 @@
+app-col-r{
+  min-width: 70%;
+  padding: 5%;
+}
+
+
+main{
+  margin: 0 auto;
+  padding: 5%;
+  display: flex;
+}
+
+
+
+/*footer*/
+footer{
+  text-align: center;
+}

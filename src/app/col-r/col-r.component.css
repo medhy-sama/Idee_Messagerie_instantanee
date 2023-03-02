@@ -1,0 +1,46 @@
+
+#col_r{
+  min-width: 100%;
+  padding: 5%;
+}
+/*#block_mess{
+
+}*/
+.block_mess_label{
+  width: 100%;
+}
+.block_mess_input{
+  min-height: 10vh;
+  border: 1px solid black;
+  width: 100%;
+}
+.col_r_bottom{
+  padding-top: 2%;
+}
+.col_r_bottom_header{
+  padding: 2% 0 2% 0;
+  font-size: 2em;
+}
+.col_r_bottom_main{
+  display: flex;
+  flex-flow: row wrap;
+}
+.col_r_bottom_main label{
+  width: 100%;
+  padding: 2% 0 2% 0;
+}
+.col_r_bottom_main input{
+  width: 100%;
+  padding: 2% 0 2% 0;
+}
+#message {
+  min-height: 10vh;
+}
+.col_r_footer{
+  padding: 2% 0 2% 0;
+  display: flex;
+  justify-content: right;
+}
+.col_r_footer input {
+  margin-left: 5%;
+}

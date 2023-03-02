@@ -1,0 +1,12 @@
+#col_l{
+  min-width: 20%;
+}
+.col_l_header{
+  min-width : 100%;
+}
+.col_l_main{
+  width: 100%;
+}
+h2{
+  font-size: 2em;
+}
