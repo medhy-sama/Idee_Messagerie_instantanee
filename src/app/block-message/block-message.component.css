@@ -1,0 +1,8 @@
+.block_mess_label{
+  width: 98%;
+}
+.block_mess_input{
+  min-height: 10vh;
+  border: 1px solid black;
+  width: 98%;
+}

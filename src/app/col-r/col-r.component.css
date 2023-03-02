@@ -3,17 +3,10 @@
   min-width: 100%;
   padding: 5%;
 }
-/*#block_mess{
+#block_mess{
+max-height: 25vh;
+}
 
-}*/
-.block_mess_label{
-  width: 100%;
-}
-.block_mess_input{
-  min-height: 10vh;
-  border: 1px solid black;
-  width: 100%;
-}
 .col_r_bottom{
   padding-top: 2%;
 }
@@ -31,10 +24,12 @@
 }
 .col_r_bottom_main input{
   width: 100%;
-  padding: 2% 0 2% 0;
+
 }
 #message {
   min-height: 10vh;
+  width: 100%;
+  padding: 2% 0 2% 0;
 }
 .col_r_footer{
   padding: 2% 0 2% 0;
@@ -43,4 +38,7 @@
 }
 .col_r_footer input {
   margin-left: 5%;
+}
+.col_r_top{
+  overflow-y: scroll;
 }

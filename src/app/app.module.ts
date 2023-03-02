@@ -7,6 +7,7 @@ import { HeaderComponent } from './header/header.component';
 import { ColLComponent } from './col-l/col-l.component';
 import { ColLContentComponent } from './col-l-content/col-l-content.component';
 import { ColRComponent } from './col-r/col-r.component';
+import { BlockMessageComponent } from './block-message/block-message.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { ColRComponent } from './col-r/col-r.component';
     HeaderComponent,
     ColLComponent,
     ColLContentComponent,
-    ColRComponent
+    ColRComponent,
+    BlockMessageComponent
   ],
   imports: [
     BrowserModule,
